@@ -8,6 +8,7 @@ import Turbolinks from "turbolinks"
 import * as ActiveStorage from "@rails/activestorage"
 import "channels"
 import "../jquery.jpostal.js"
+import "./address_autofill.js"
 
 Rails.start()
 Turbolinks.start()
